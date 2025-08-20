@@ -3,6 +3,9 @@
 ## Problem Statement
 >"As a retail store manager, I want a comprehensive system to manage and track my customers, their purchases, and interactions with the store. By having centralized and organized customer data, I can gain insights into buying behavior, track transaction histories, and understand engagement patterns. This will allow me to make data-driven decisions, manage customer information efficiently, and deliver personalized services or targeted promotions that improve customer satisfaction, loyalty, and overall sales performance."
 
+## Data Model Screenshot
+![Data Model](RetailCRMDataModel.png)  
+
 ## Project Overview
 This project simulates a **Retail CRM system** that allows store managers to track customers, their purchases, and interactions. It demonstrates the use of relational databases, SQL queries, and data management techniques to organize and analyze retail data.
 
@@ -14,7 +17,7 @@ This project simulates a **Retail CRM system** that allows store managers to tra
 
 ## Project Files
 - `RetailCRMQuery.sql` – SQL script containing database creation, table definitions, and sample queries  
-- `RetailCRM.png` – Screenshot of query results  
+- `RetailCRMDataModel.png` – Visual Representation on the database 
 
 ## Tasks and Tools
 - **Database Design:** Created a relational database schema using **Data Definition Language (DDL)** to define tables, primary keys, and relationships  
